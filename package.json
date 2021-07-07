@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adolpho-cavalcanti/clean-node-tdd-api/issues"
   },
-  "homepage": "https://github.com/adolpho-cavalcanti/clean-node-tdd-api#readme"
+  "homepage": "https://github.com/adolpho-cavalcanti/clean-node-tdd-api#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
 }
