@@ -1,0 +1,19 @@
+{
+  "name": "clean-node-tdd-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adolpho-cavalcanti/clean-node-tdd-api.git"
+  },
+  "author": "Adolpho Cavalcanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolpho-cavalcanti/clean-node-tdd-api/issues"
+  },
+  "homepage": "https://github.com/adolpho-cavalcanti/clean-node-tdd-api#readme"
+}
